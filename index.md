@@ -3,7 +3,7 @@
 
 # OS242: Priyapta
 
-[HOME](https://priyapta.github.io/os242/) [LINKS](LINKS/){:target="_blank"} --- [LOG](https://github.com/Priyapta/os242/blob/master/TXT/mylog.txt)- [GitHub](https://github.com/Priyapta/os242)
+[HOME](https://priyapta.github.io/os242/) [LINKS](LINKS/){:target="_blank"} --- [LOG](TXT/mylog.txt)- [GitHub](https://github.com/Priyapta/os242)
 
 <br>
 
