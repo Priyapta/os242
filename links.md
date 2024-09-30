@@ -16,5 +16,5 @@ permalink: LINKS/
 These commands will help you list PCI devices, view information about your CPU, and more.
 <br>
 <br>
-#### REV: Fri 06 Sep 2024 22:54
+#### REV: Fri 30 Sep 2024 07:37
 <hr>
