@@ -15,7 +15,7 @@ ZCZC W02 10 L03 GitHub related
 ZCZC W02 200 L02 Week 2 Class session
 ZCZC W02 60 L09 Weekly Assignments
 ZCZC W02 60 L05 SEB setup took a long time due to unspecific error
-ZCZC W02 25 L05 Quiz Week 00
+ZCZC W02 25 L05 Quiz Week 02
 ZCZC W02 10 L41 TXT/mylog.txt related
 ZCZC W02 10 L41 TXT/myscript.sh related
 
@@ -23,9 +23,16 @@ ZCZC W02 10 L41 TXT/myscript.sh related
 ZCZC W03 10 L03 GitHub related
 ZCZC W03 200 L02 Week 3 Class session
 ZCZC W03 60 L09 Weekly Assignments
-ZCZC W03 25 L05 Quiz Week 00
+ZCZC W03 25 L05 Quiz Week 03
 ZCZC W03 10 L41 TXT/mylog.txt related
 ZCZC W03 10 L41 TXT/myscript.sh related
+
+ZCZC W04 10 L03 GitHub related
+ZCZC W04 200 L02 Week 4 Class session
+ZCZC W04 60 L09 Weekly Assignments
+ZCZC W04 25 L05 Quiz Week 04
+ZCZC W04 10 L41 TXT/mylog.txt related
+ZCZC W04 10 L41 TXT/myscript.sh related
 
 
 
