@@ -34,5 +34,12 @@ ZCZC W04 25 L05 Quiz Week 04
 ZCZC W04 10 L41 TXT/mylog.txt related
 ZCZC W04 10 L41 TXT/myscript.sh related
 
+ZCZC W05 10 L03 GitHub related
+ZCZC W05 200 L02 Week 5 Class session
+ZCZC W05 60 L09 Weekly Assignments
+ZCZC W05 25 L05 Quiz Week 05
+ZCZC W05 10 L41 TXT/mylog.txt related
+ZCZC W05 10 L41 TXT/myscript.sh related
+
 
 
