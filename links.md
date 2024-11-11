@@ -14,7 +14,8 @@ permalink: LINKS/
 * [Problems You will Encounter on Linux](https://www.youtube.com/watch?v=S5qDCIn9yYQ) -- Common Problem in Linux
 * [C Programming Full Course for free ](https://www.youtube.com/watch?v=87SH2Cn0s9A&t=4358s) -- C programming
 * [C Programming for Beginners | Full Course](https://www.youtube.com/watch?v=ssJY5MDLjlo) -- C Programming for Beginners
-* [C Programming for Beginners | Full Course](https://www.youtube.com/watch?v=ssJY5MDLjlo) -- C Programming for Beginners 
+* [C Programming for Beginners | Full Course](https://www.youtube.com/watch?v=ssJY5MDLjlo) -- C Programming for Beginners
+* [Cybersecurity: Crash Course Computer Science](https://www.youtube.com/watch?v=bPVaOlJ6ln0) -- CyberSecurity
 These commands will help you list PCI devices, view information about your CPU, and more.
 <br>
 <br>
