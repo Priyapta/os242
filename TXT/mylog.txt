@@ -62,6 +62,13 @@ ZCZC W08 25 L05 Quiz Week 08
 ZCZC W08 10 L41 TXT/mylog.txt related
 ZCZC W08 10 L41 TXT/myscript.sh related
 
+ZCZC W09 10 L03 GitHub related
+ZCZC W09 200 L02 Week 9 Class session
+ZCZC W09 60 L09 Weekly Assignments
+ZCZC W09 25 L05 Quiz Week 09
+ZCZC W09 10 L41 TXT/mylog.txt related
+ZCZC W09 10 L41 TXT/myscript.sh related
+
 
 
 
