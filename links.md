@@ -15,7 +15,8 @@ permalink: LINKS/
 * [C Programming Full Course for free ](https://www.youtube.com/watch?v=87SH2Cn0s9A&t=4358s) -- C programming
 * [C Programming for Beginners | Full Course](https://www.youtube.com/watch?v=ssJY5MDLjlo) -- C Programming for Beginners
 * [C Programming for Beginners | Full Course](https://www.youtube.com/watch?v=ssJY5MDLjlo) -- C Programming for Beginners
-* [Cybersecurity: Crash Course Computer Science](https://www.youtube.com/watch?v=bPVaOlJ6ln0) -- CyberSecurity
+* [Cybersecurity: Crash Course Computer Science](https://www.youtube.com/watch?v=bPVaOlJ6ln0) -- CyberSecurity\
+* [How to Start with Robotics? for Absolute Beginners](https://www.youtube.com/watch?v=J0ssFp7yN8Y) -- Robot
 These commands will help you list PCI devices, view information about your CPU, and more.
 <br>
 <br>
