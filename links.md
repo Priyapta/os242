@@ -17,6 +17,7 @@ permalink: LINKS/
 * [C Programming for Beginners | Full Course](https://www.youtube.com/watch?v=ssJY5MDLjlo) -- C Programming for Beginners
 * [Cybersecurity: Crash Course Computer Science](https://www.youtube.com/watch?v=bPVaOlJ6ln0) -- CyberSecurity\
 * [How to Start with Robotics? for Absolute Beginners](https://www.youtube.com/watch?v=J0ssFp7yN8Y) -- Robot
+* [LFS from Scratch](https://www.youtube.com/watch?v=ARGUDGIw0qw) -- Linux
 These commands will help you list PCI devices, view information about your CPU, and more.
 <br>
 <br>
